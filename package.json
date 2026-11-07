@@ -1,0 +1,15 @@
+{
+  "urls": [
+    [
+      "protocentral_easyecg.py",
+      "github:Protocentral/protocentral-micropython-easyecg/protocentral_easyecg.py"
+    ]
+  ],
+  "deps": [
+    [
+      "github:Protocentral/protocentral-micropython-tla20xx",
+      "main"
+    ]
+  ],
+  "version": "0.2.0"
+}
